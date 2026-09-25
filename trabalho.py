@@ -4,6 +4,8 @@
  Trabalho avaliativo - Cibersegurança - UFU 2026/2
 =============================================================
 """
+# Desenvolvimento - feature-vulnerabilidades
+
 
 from enum import Enum
 import json
