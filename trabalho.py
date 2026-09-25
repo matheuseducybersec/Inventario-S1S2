@@ -4,6 +4,7 @@
  Trabalho avaliativo - Cibersegurança - UFU 2026/2
 =============================================================
 """
+# Versão de desenvolvimento - branch feature-cadastro
 
 from enum import Enum
 import json
